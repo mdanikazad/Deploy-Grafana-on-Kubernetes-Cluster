@@ -26,5 +26,5 @@ Note: The kubeclt on jump_host has been configured to work with kubernetes clust
 -------------------------------------To Do-------------------------------------------------
 
 
-# kubectl create -f deployment.yaml
-# kubectl create -f service.yaml
+kubectl create -f deployment.yaml  
+kubectl create -f service.yaml
