@@ -20,3 +20,11 @@ d. Volume mount name should be grafana-storage. Its mountPath should be /var/lib
 You can use any labels as per your choice.
 
 Note: The kubeclt on jump_host has been configured to work with kubernetes cluster.
+
+
+
+-------------------------------------To Do-------------------------------------------------
+
+
+kubectl create -f deployment.yaml
+kubectl create -f service.yaml
